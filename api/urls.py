@@ -1,4 +1,4 @@
-from api.analyzer_resource import AnalyzerResource
+from api.resources.analyzer_resource import AnalyzerResource
 
 
 class URL:
